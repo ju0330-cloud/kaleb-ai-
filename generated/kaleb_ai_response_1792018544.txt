@@ -1,0 +1,6 @@
+Hello! 👋 How can I help you today?  
+- Need a **datapack** or **resource pack**?  
+- Want to build a **Fabric/Forg mod** or design a **player skin**?  
+- Looking for a fun **mini‑game** in HTML/JavaScript?  
+
+Just let me know what you’re aiming to create, and I’ll give you the exact code and step‑by‑step installation instructions!
